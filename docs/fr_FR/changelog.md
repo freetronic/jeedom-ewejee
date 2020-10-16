@@ -1,8 +1,8 @@
 # Changelog
 
 - A venir : 
-	- [ ] Mise en place d'une fonction de traitement d'alèrtes (date et heure).
-	- [ ] ...Récupération des noms saisie dans l'aplication eWeLink (J'ai besoins de bêta testeur pour ceci...Envoyez moi un message !!).
+	- [ ] Mise en place d'une fonction de traitement d'alertes (date et heure).
+	- [ ] ...Récupération des noms saisie dans l'application eWeLink (J'ai besoin de bêta testeur pour ceci...Envoyez moi un message !!).
 	- [ ] Vérification si l'équipement est en ligne avant d'envoyer une commande.
 	- [ ] Test de l'activation du pulse
     - [ ] *Si possible* Retour d'état sans Cloud.
